@@ -1,0 +1,2 @@
+rootProject.name = "KT_FirebaseCrashlytics"
+include ':app'
